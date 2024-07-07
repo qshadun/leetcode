@@ -31,6 +31,9 @@ public:
 
 int main() {
     Solution sol;
-    vector<int> vi{};
+    vector<int> vi{1, 2, 3};
     cout <<sol.threeSumSmaller(vi, 2) << endl;
+    int const x = 5;
+    cout << x << endl;
+
 }

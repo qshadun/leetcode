@@ -13,6 +13,10 @@ mod lc_1424;
 mod lc_1630;
 mod lc_288;
 mod lc_296;
+mod trie;
+mod lc_2181;
+mod lc_563;
+mod lc_567;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right

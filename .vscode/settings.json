@@ -4,7 +4,20 @@
         "__split_buffer": "cpp",
         "deque": "cpp",
         "string": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "cstring": "c",
+        "locale": "c",
+        "unordered_set": "cpp",
+        "queue": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "map": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "ios": "c"
     },
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
