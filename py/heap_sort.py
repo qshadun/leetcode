@@ -5,7 +5,7 @@ class MaxHeap:
         self.build_heap()
 
     def heapify(self, i):
-        l = 2 * i
+        l = 2 * i  # noqa: E741
         r = 2 * i + 1
         if l <= self.heap_size and self.data[l] > self.data[i]:
             largest = l
